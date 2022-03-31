@@ -38,7 +38,7 @@ use pocketmine\level\sound\AnvilUseSound;
 use pocketmine\level\sound\EndermanTeleportSound;
 use pocketmine\utils\Textformat as Color;
 
-class LobbyCore extends PluginBase implements Listener {
+class Main extends PluginBase implements Listener {
     
     public function onEnable(): void{
         $this->getServer()->getLogger()->info("[LobbyCorePM4] Plugin Enabled");
