@@ -1,16 +1,6 @@
-//configuration for lobbycore item&commands
-//-
-
-//setup name & cmd item slot 4 here!
-
 item-4-name: "§bServer Selector"
 item-4-cmd: "cmd4"
-
-//setup name & cmd item slot 8 here!
-
 item-8-name: "§cReport"
 item-8-cmd: "report"
 
-//plugin by RynzDev
-//Support Me For Upload Other Plugin :)
-//Enjoy The Plugin
+#RynzDev
