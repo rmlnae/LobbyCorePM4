@@ -1,11 +1,8 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/RynzDev/LobbyCorePM4
+--- # Poggit-CI Manifest.  Open the CI at https://poggit.pmmp.io/ci/RynzDev/LobbyCorePM4 
 build-by-default: true
 branches:
 - master
 projects:
   LobbyCorePM4:
     path: ""
-    libs:
-      - src: poggit/libasynql/libasynql
-        version: ^4.2.4
 ...
